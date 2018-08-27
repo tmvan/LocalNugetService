@@ -1,6 +1,17 @@
 # Local NuGet Service
 
+![GitHub last commit](https://img.shields.io/github/last-commit/tmvan/LocalNugetService.svg?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/tmvan/LocalNugetService.svg?style=flat-square)
+[![GitHub](https://img.shields.io/github/license/tmvan/LocalNugetService.svg?style=flat-square)](https://github.com/tmvan/LocalNugetService/blob/master/LICENSE)
+
 Run NuGet Server as a Windows service.
+
+## Releases
+
+|  | `version` | `release date` |
+|-|-|-|
+| **`release`** | [![GitHub release](https://img.shields.io/github/release/tmvan/LocalNugetService.svg?style=flat-square)](https://github.com/tmvan/LocalNugetService/releases) | ![GitHub Release Date](https://img.shields.io/github/release-date/tmvan/LocalNugetService.svg?style=flat-square) |
+| **`(pre-)release`** | [![GitHub (pre-)release](https://img.shields.io/github/release/tmvan/LocalNugetService/all.svg?style=flat-square)](https://github.com/tmvan/LocalNugetService/releases) | ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/tmvan/LocalNugetService.svg?style=flat-square) |
 
 ## Prerequisites
 
