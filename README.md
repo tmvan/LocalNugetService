@@ -27,13 +27,14 @@ Run NuGet Server as a Windows service.
 
 ## Configuration
 
-To configure the app, open configuration file and edit these settings:
+To configure your service, open configuration file (`App.config`) and edit these settings:
 ```xml
 <appSettings>
-    <!-- The port your website will be run on -->
+    <!-- The port your service will be run on. -->
     <add key="port" value="9028" /> 
 
-    <!-- Default NuGet.Server settings. See this article: https://docs.microsoft.com/en-us/nuget/hosting-packages/nuget-server  -->
+    <!-- Default NuGet.Server settings.  -->
+    <!-- See this article: https://docs.microsoft.com/en-us/nuget/hosting-packages/nuget-server). -->
     <add key="packagesPath" value="C:\.LocalNuGet" />
     <add key="requireApiKey" value="false" />
     <add key="apiKey" value="" />
